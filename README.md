@@ -11,6 +11,7 @@
 [![GOLANG](https://img.shields.io/badge/go-00add8?style=for-the-badge&logo=go&logoColor=white)]()
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanainaPaula&count_private=true&show_icons=true&theme=radical)](https://github.com/JanainaPaula/github-readme-stats)
 
 <!--
 **JanainaPaula/JanainaPaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
