@@ -1,4 +1,6 @@
-# Olá! Me chamo Janaina :computer: :heart: ![octocat-1688508538981](https://github.com/JanainaPaula/JanainaPaula/assets/19650627/2b44dd8b-c859-43fb-8d8c-06a6060fc790)
+# Olá! Me chamo Janaina :computer: :heart: 
+
+![octocat-1688508538981](https://github.com/JanainaPaula/JanainaPaula/assets/19650627/2b44dd8b-c859-43fb-8d8c-06a6060fc790)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/janainadepaula/)]()
