@@ -14,7 +14,7 @@ Sou Engenheira de Software, amo trabalhar com tecnologia, pricipalmente com soft
 [![GOLANG](https://img.shields.io/badge/go-00add8?style=for-the-badge&logo=go&logoColor=white)]()
 
 
-[![Janaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanainaPaula&count_private=true&show_icons=true&theme=radical)](https://github.com/JanainaPaula/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanainaPaula&layout=compact)](https://github.com/JanainaPaula/github-readme-stats)
+[![Janaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanainaPaula&count_private=true&show_icons=true&theme=radical)](https://github.com/JanainaPaula/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanainaPaula&layout=compact)](https://github.com/JanainaPaula/github-readme-stats)
 
 
 <!--
