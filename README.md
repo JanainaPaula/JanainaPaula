@@ -1,6 +1,6 @@
 # Olá! Me chamo Janaina :computer: :heart:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)] 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)]()
   
 ## Sobre mim
 Sou Engenheira de Software, amo trabalhar com tecnologia, pricipalmente com software Back-end :octocat: . Atualmente estou me especizando em Arquitetura de Software e nas horas vagas estudo aromaterapia e faço uns cosméticos legais e tento tocar guitarra 🎸
